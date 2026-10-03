@@ -1,0 +1,47 @@
+{
+  "collection_size": 3,
+  "tokens": [
+    {
+      "breakdown": [
+        {
+          "frequency": 1,
+          "score": "3",
+          "trait": "color",
+          "value": "blue"
+        }
+      ],
+      "id": "c",
+      "rank": 1,
+      "score": "3"
+    },
+    {
+      "breakdown": [
+        {
+          "frequency": 2,
+          "score": "1.5",
+          "trait": "color",
+          "value": "red"
+        }
+      ],
+      "id": "a",
+      "rank": 2,
+      "score": "1.5"
+    },
+    {
+      "breakdown": [
+        {
+          "frequency": 2,
+          "score": "1.5",
+          "trait": "color",
+          "value": "red"
+        }
+      ],
+      "id": "b",
+      "rank": 3,
+      "score": "1.5"
+    }
+  ],
+  "trait_types": [
+    "color"
+  ]
+}

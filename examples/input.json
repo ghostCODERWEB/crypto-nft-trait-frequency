@@ -1,0 +1,22 @@
+{
+  "tokens": [
+    {
+      "id": "a",
+      "traits": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "b",
+      "traits": {
+        "color": "red"
+      }
+    },
+    {
+      "id": "c",
+      "traits": {
+        "color": "blue"
+      }
+    }
+  ]
+}
